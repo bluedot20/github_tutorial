@@ -1,3 +1,6 @@
+# update 1 
+
+
 # def alternatingSum(myList): 
 # 	positive = myList[::2]
 # 	negative = myList[1::2]
@@ -188,7 +191,6 @@ elapsed2 = end - start
 print("count=", count," and time = %0.4f seconds" % elapsed2)
 print("With n=%d, sets ran about %0.1f times faster than lists!" %
       (n, elapsed1/elapsed2))
-print("Try a larger n to see an even greater savings!")
 
 
 
